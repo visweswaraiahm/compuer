@@ -1,0 +1,4 @@
+monitor
+cpu
+keyboard
+etc
