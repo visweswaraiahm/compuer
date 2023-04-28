@@ -1,4 +1,6 @@
 monitor
 cpu
 keyboard
+mouse
+joystick
 etc
